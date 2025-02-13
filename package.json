@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@lens-protocol/client": "^2.3.2",
+    "ethers": "^6.13.5"
+  }
+}
